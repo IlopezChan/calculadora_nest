@@ -1,0 +1,3 @@
+interface MacAddress {
+    macAddress: string
+}
